@@ -1,0 +1,3 @@
+username:admin
+mail:temp@admin.com
+pass:adminadmin
